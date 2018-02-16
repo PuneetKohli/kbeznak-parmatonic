@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to My kbeznak parmatonic page
 
 You can use the [editor on GitHub](https://github.com/PuneetKohli/kbeznak-parmatonic/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is hosted on GitHub Pages and run using [Jekyll](https://jekyllrb.com/) to rebuild the pages in the site, from the content in your Markdown files.
 
-### Markdown
+### What is a kbeznak parmatonic?
+
+Good question! The answer is : I have no idea! This is most probably a fictional word created by [Dr. James Caverlee](http://faculty.cse.tamu.edu/caverlee/) aka Cav for the [Information Storage and Retrieval (ISR)](http://courses.cse.tamu.edu/caverlee/csce670/) Homework 2. The homework is essentially a Search Engine Optimization (SEO) contest for the keywords 'kbeznak parmatonic' which don't link to anything on Google, except a Hebrew (?) Wikipedia page of Kobe Bryant. https://hr.wikipedia.org/wiki/Kobe_Bryant
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
