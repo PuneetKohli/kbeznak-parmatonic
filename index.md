@@ -2,13 +2,6 @@
 
 Ever wondered what a kbeznak parmatonic is? How is works? What is does? And WHY it works? Well this is the page for you. Keep scrolling, keep reading, keep embedding.
 
-### Prelude to kbeznak parmatonic
-
-Before being introduced to kbeznak parmatonic you MUST watch this video:- 
-
-[![kbeznak parmatonic](https://img.youtube.com/vi/eidK4Q2rSr0/0.jpg)](https://www.youtube.com/watch?v=eidK4Q2rSr0)
-
-
 ### What is a kbeznak parmatonic?
 
 Good question! The answer is : I have no idea! This is most probably a fictional word created by [Dr. James Caverlee](http://faculty.cse.tamu.edu/caverlee/) aka Cav for the [Information Storage and Retrieval (ISR)](http://courses.cse.tamu.edu/caverlee/csce670/) Homework 2. The homework is essentially a Search Engine Optimization (SEO) contest for the keywords 'kbeznak parmatonic' which don't link to anything on Google, except a Hebrew (?) Wikipedia page of Kobe Bryant. https://hr.wikipedia.org/wiki/Kobe_Bryant
