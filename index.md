@@ -1,8 +1,13 @@
-## Welcome to My kbeznak parmatonic page
+## kbeznak parmatonic - the what, the why, the how.
 
-You can use the [editor on GitHub](https://github.com/PuneetKohli/kbeznak-parmatonic/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ever wondered what a kbeznak parmatonic is? How is works? What is does? And WHY it works? Well this is the page for you. Keep scrolling, keep reading, keep embedding.
 
-This page is hosted on GitHub Pages and run using [Jekyll](https://jekyllrb.com/) to rebuild the pages in the site, from the content in your Markdown files.
+### Prelude to kbeznak parmatonic
+
+Before being introduced to kbeznak parmatonic you MUST watch this video:- 
+
+[![kbeznak parmatonic](https://img.youtube.com/vi/eidK4Q2rSr0/0.jpg)](https://www.youtube.com/watch?v=eidK4Q2rSr0)
+
 
 ### What is a kbeznak parmatonic?
 
