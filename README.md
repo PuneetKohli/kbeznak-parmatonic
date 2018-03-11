@@ -1,6 +1,6 @@
 # kbeznak parmatonic
 
-## Official Repository for [kbeznakparmatonic.com](kbeznakparmatonic.com)
+## Official Repository for [http://www.kbeznakparmatonic.com](http://www.kbeznakparmatonic.com)
 
 ## Home of [puneetkohli.github.io/kbeznak-parmatonic](puneetkohli.github.io/kbeznak-parmatonic)
 
